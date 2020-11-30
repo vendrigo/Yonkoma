@@ -1,1 +1,1 @@
-# Yonkoma
+https://vendrigo.github.io/Yonkoma
